@@ -6,9 +6,14 @@
   "scripts": {
     "start": "electron"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pnzrkmpfwgn/electron-tutorial.git"
+  },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "electron": "^13.1.6"
-  }
+  "bugs": {
+    "url": "https://github.com/pnzrkmpfwgn/electron-tutorial/issues"
+  },
+  "homepage": "https://github.com/pnzrkmpfwgn/electron-tutorial#readme"
 }
